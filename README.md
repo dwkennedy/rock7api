@@ -26,4 +26,10 @@ to reset database, erase the "sql_app.db" file.
 
 - There are 10 types of people who understand binary
 
-
+### Installation notes
+```
+pip install fastapi
+pip install sqlalchemy
+pip install simplekml
+pip install uvicorn
+```
